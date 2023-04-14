@@ -1,7 +1,7 @@
-# lxqt-rock5b-image
-Files for creating an lxqt rock 5b image
+# lxqt-cpi4-image
+Files for creating an lxqt cool pi 4 image
 Usage
 ```
-mkimage.py -w ./work/ -o ./out/ -c ./lxqt-rock5b-image/
+mkimage.py -w ./work/ -o ./out/ -c ./lxqt-cpi4-image/
 
 ```
