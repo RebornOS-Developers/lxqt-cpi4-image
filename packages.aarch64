@@ -13,6 +13,7 @@ polkit
 bluez-utils
 cpi4-post-install
 #f2fs-tools
+firmware-cpi4
 linux-cpi
 linux-cpi-headers
 mesa-panfork-git
