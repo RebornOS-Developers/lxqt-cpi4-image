@@ -13,8 +13,8 @@ polkit
 bluez-utils
 cpi4-post-install
 #f2fs-tools
-linux-cpi4
-linux-cpi4-headers
+linux-cpi
+linux-cpi-headers
 mesa-panfork-git
 libdrm
 libdrm-rockchip
